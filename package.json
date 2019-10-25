@@ -1,0 +1,26 @@
+{
+  "name": "custom-plceholder",
+  "version": "1.0.0",
+  "description": "Custom input placeholder with text-overflow: ellipsis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hog-seruj/custom-plceholder.git"
+  },
+  "keywords": [
+    "custom-paceholder",
+    "vanilla",
+    "JS",
+    "Drupal",
+    "behavior"
+  ],
+  "author": "Sergiy Borodulin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hog-seruj/custom-plceholder/issues"
+  },
+  "homepage": "https://github.com/hog-seruj/custom-plceholder#readme"
+}

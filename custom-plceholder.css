@@ -1,0 +1,19 @@
+.custom-placeholder {
+  position: absolute;
+  text-overflow: ellipsis;
+  width: calc(100% - 40px);
+  color: #4a4a4a;
+  top: 0;
+  height: 48px;
+  padding: 6px 12px;
+  font-size: 18px;
+  line-height: 36px;
+  letter-spacing: -0.2px;
+  white-space: nowrap;
+  overflow: hidden;
+  visibility: visible;
+}
+
+.custom-placeholder.hidden {
+  visibility: hidden;
+}
